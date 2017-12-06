@@ -40,7 +40,7 @@
 				$row["fontsize"]=14;
 				$row["cbcolor"]="#000000";
 				$row["cbimage"]="";
-				$row["ccolor"]="#000000";
+				$row["ccolor"]="#ffffff";
 				$row["lcolor"]="#000000";
 	}
 	else 

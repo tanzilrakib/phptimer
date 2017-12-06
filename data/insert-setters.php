@@ -115,7 +115,7 @@ if (isset($_POST['submit']))
 
 		$_SESSION['success'] = 'Insertion Successful!';
 
-		header("Location: ../public/index.php");
+		header("Location: ../index.php");
 		exit;
 
 	}

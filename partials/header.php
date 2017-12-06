@@ -8,8 +8,8 @@
 
 	<title>PhP Timer</title>
 
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="../public/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../public/css/style.css">
 </head>
 
 <body>

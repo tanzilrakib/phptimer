@@ -1,7 +1,7 @@
 
 <?php include "partials/header.php";
 
-require "../data/get-init.php";?>
+require "data/get-init.php";?>
 
 
 	<div class="container">
