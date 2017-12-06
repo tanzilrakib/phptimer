@@ -1,0 +1,38 @@
+body{
+	background-color: #fafafa;
+}
+
+h1,h2,h3{
+	font-weight: bolder;
+}
+label {
+	display: block;
+	margin: 5px 0;
+}
+
+.timer-field{
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 10px;
+	font-weight: bolder;
+
+}
+.timer-field-label{
+	padding: 10px;
+	font-weight: bolder;
+}
+
+.label-14px{
+
+	font-size: 14px;
+}
+
+.margin-20{
+	margin:20px;
+}
+
+#bg-timer{
+	padding: 25px 0px; 
+	margin: 25px 0px; 
+}
+
