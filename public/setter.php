@@ -1,12 +1,12 @@
 <?php
 
-	require "config/config.php";
-	require "data/get-init.php";
+	require "../config/config.php";
+	require "../data/get-init.php";
 
 ?>
 
 
-		<form id="styleForm" method="post" action="data/insert-setters.php" enctype="multipart/form-data">
+		<form id="styleForm" method="post" action="../data/insert-setters.php" enctype="multipart/form-data">
 				<div class="form-group col-xs-12 col-md-12">
 		        	<label for="fontsize" class="control-label">Font Size</label>
 		        	<small><p>The counter font size in pixels unit</p></small>
@@ -52,6 +52,6 @@
 
 			</form>
 			
-			<form id="rm-img-form" method="get" action="data/remove-img.php">
+			<form id="rm-img-form" method="get" action="../data/remove-img.php">
 				
 			</form>

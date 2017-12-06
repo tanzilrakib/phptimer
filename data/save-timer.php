@@ -71,7 +71,7 @@ if (isset($_POST['finish-time']))
 
 		$_SESSION['success'] = 'Insertion Successful!';
 
-		header("Location: ../index.php");
+		header("Location: ../public/index.php");
 		exit;
 
 	}

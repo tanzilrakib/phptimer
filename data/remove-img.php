@@ -37,7 +37,7 @@
 		$statement = $connection->prepare($sql);
 		$statement->execute();
 
-	    header("Location: ../index.php");
+	    header("Location: ../public/index.php");
 	}
 
 

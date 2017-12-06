@@ -26,7 +26,7 @@
 
 	<h3 class="text-center">Set Timer</h3>
 		
-	<form id="settimerForm" method="post" action="data/save-timer.php">
+	<form id="settimerForm" method="post" action="../data/save-timer.php">
 		<div class="row">
 			<div class="form-group">
 			  <!-- <label class="control-label col-sm-offset-3 col-sm-3" for="company">Company</label> -->

@@ -16,7 +16,7 @@ try
 	
 	echo "Database and tables ( 'initializers' & 'settimer')  created successfully!";
 	
-	header("Location: ../index.php");
+	header("Location: ../public/index.php");
 	exit;
 }
 
